@@ -6,4 +6,5 @@
 <img src="https://i.imgur.com/jM9KIwr.png" width="100%" height="100%"></img>
 <p>RNG Lottery</p>
 <img src="https://i.imgur.com/6KN1Gdw.png" width="100%" height="100%"></img>
-
+<p>Powerball Lottery</p>
+<img src="https://i.imgur.com/N6ykpdH.png" width="100%" height="100%"></img>
