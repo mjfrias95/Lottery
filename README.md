@@ -2,11 +2,11 @@
 
 Ethereum Lottery Process Flow Diagram
 <pre>
-"Lottery/
+Lottery/
        | ---- Ethereum/
                       | ---- Powerball.png
                       | ---- Recurring.png
                       | ---- RNG.png
-                      | ---- SimpleLottery.png"
+                      | ---- SimpleLottery.png
 </pre>         
 <br>Hyperledger Lottery Process Flow Diagram
