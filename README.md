@@ -10,3 +10,11 @@ Lottery/
                       | ---- SimpleLottery.png
 </pre>         
 <br>Hyperledger Lottery Process Flow Diagram
+<pre>
+Lottery/
+       | ---- Hyperledger/
+                      | ---- HyperPowerball.png
+                      | ---- HyperRecurring.png
+                      | ---- RNGHyper.png
+                      | ---- SimpleHyper.png
+</pre> 
